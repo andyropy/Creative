@@ -94,3 +94,56 @@ header .soc{
     text-decoration: none;
     margin-right: 20px;
 }
+.style h1{
+    color: #181818;
+    font-size: 38px;
+    line-height: 42px;
+    margin-top: 70px;
+}
+.style img{
+    margin-top: 15px;
+}
+.style p{
+    display: inline-block;
+    margin-left: 30px;
+    font-size: 18px;
+    line-height: 25px;
+    color: #181818;
+}
+.name h1{
+    font-size: 50px;
+    color: #181818;
+    line-height: 55px;
+    margin-top: 150px;
+}
+.name p{
+    font-size: 55px;
+    line-height: 55px;
+    display: inline-block;
+}
+.mach h1{
+    color: #181818;
+    font-size: 20px;
+    line-height: 20px;
+    padding-left: 761px;
+}
+.mach p{
+    font-size: 18px;
+    line-height: 25px;
+    padding-top: 15px;
+}
+.mach img{
+    padding-left: 80px;
+    padding-top: 15px;
+}
+.mach span {
+    background: #2B59C3;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
